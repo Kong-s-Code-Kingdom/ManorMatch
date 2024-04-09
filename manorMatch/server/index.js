@@ -2,7 +2,10 @@ import dotenv from 'dotenv';
 dotenv.config();
 import { createServer } from 'http';
 import { Server } from 'socket.io';
-import path from 'path';
+
+import path, { dirname } from 'path';
+import { fileURLToPath } from 'url';
+
 import express from 'express';
 import cors from 'cors';
 import axios from 'axios';
@@ -20,12 +23,17 @@ const io = new Server(server, {
     methods: ["GET", "POST"]
   },
 });
+
 app.use(express.json());
 app.use(morgan('dev'));
 
 app.use(cookieParser());
 app.use(auth.createSession);
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+app.use(express.static(path.join(__dirname, '../dist')));
 app.use('/', router);
 
 app.get('/clear-cookie', (req, res) => {
@@ -39,7 +47,7 @@ io.on('connection', (socket) => {
     console.log('New message', message);
     io.emit('message', message);
   })
- });
+});
 
 const port = process.env.PORT;
 

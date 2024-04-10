@@ -10,6 +10,7 @@ import cookieParser from 'cookie-parser';
 import router from './routes/routes.js';
 import morgan from 'morgan';
 import * as auth from './middleware/auth.js';
+import { fileURLToPath } from 'url';
 
 const app = express();
 app.use(cors());
@@ -22,6 +23,10 @@ const io = new Server(server, {
 });
 app.use(express.json());
 app.use(morgan('dev'));
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+app.use(express.static(path.join(__dirname, '../dist')));
 
 app.use(cookieParser());
 app.use(auth.createSession);
@@ -39,7 +44,7 @@ io.on('connection', (socket) => {
     console.log('New message', message);
     io.emit('message', message);
   })
- });
+});
 
 const port = process.env.PORT;
 

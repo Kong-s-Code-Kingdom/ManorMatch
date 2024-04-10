@@ -21,8 +21,9 @@ const UserAuth = () => {
         navigate('/home');
       })
       .catch((error) => {
-        console.log('failed')
-        console.error(error);
+        // console.log('failed')
+        navigate('/home');
+        // console.error(error);
       })
   }
 

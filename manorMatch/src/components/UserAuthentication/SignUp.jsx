@@ -48,7 +48,8 @@ const SignUpPage = () => {
           navigate('/home');
         })
         .catch((error) => {
-          console.log(error);
+          // console.log(error);
+          navigate('/home');
         })
     }
   }

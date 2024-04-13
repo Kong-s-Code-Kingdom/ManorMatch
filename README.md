@@ -74,11 +74,29 @@
 
 ### Built With
 
-![node.js](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor)
-![Nextjs](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js)
-![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase)
-![Typescript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-red?style=for-the-badge&logo=react-router&logoColor=white)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+![Node](https://img.shields.io/badge/node.js-forestgreen?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-violet?style=for-the-badge&logo=axios&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-teal?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-purple?style=for-the-badge&logo=vite&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-6a2fc9?style=for-the-badge&logo=stripe)
+![Socket.io](https://img.shields.io/badge/socket.io-turquoise?style=for-the-badge&logo=socket.io)
+
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![React Router](https://img.shields.io/badge/react_router-black?style=for-the-badge&logo=react-router)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![Axios](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios)
+![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
+![Stripe](https://img.shields.io/badge/stripe-black?style=for-the-badge&logo=stripe)
+![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
 
 <p align="right">
   (<a href="#readme-top">back to top</a>)

@@ -81,10 +81,6 @@
 
 ## Getting Started
 
-<p>
-    Instructions to setup Pixel Pouch on your local machine below.
-</p>
-
 ### Prerequisites
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -131,10 +127,10 @@ npm install
    ```sh
    npm run seed
    ```
+
 ## Usage
 
-Manor Match is run on the designated port. It can also be accessed utilizing localhost:PORT directly in the browser.
-
+ManorMatch is run on the designated port. It can also be accessed utilizing localhost:PORT directly in the browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,8 +149,7 @@ Manor Match is run on the designated port. It can also be accessed utilizing loc
 - [x] Leverage Stripe’s payment platform to build a secure checkout and payment process
 - [ ] Look into integrating Google Maps’ API for vendor location tracking
 - [ ] Build a portal for administrators to see and manage clients, bookings, and vendor relationships more efficiently
-  
-=======
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,6 +164,84 @@ Manor Match is run on the designated port. It can also be accessed utilizing loc
 <!-- CONTACT -->
 
 ## Developers
+<table align="center">
+  <tbody>
+    <tr align="center">
+      <td>
+        <h2> Styles Kim </h2>
+        <a href="https://www.linkedin.com/in/styles-kim/">
+          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+          />
+        </a>
+        <a href="https://github.com/stylescode">
+          <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td>
+        <h2> Eric Roth </h2>
+        <a href="https://www.linkedin.com/in/eric-roth-6b259b136/">
+          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+          />
+        </a>
+        <a href="https://github.com/unoriginal1234">
+          <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td>
+        <h2> Maysie Ocera </h2>
+        <a href="https://www.linkedin.com/in/maysieo/">
+          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+          />
+        </a>
+        <a href="https://github.com/maysieo">
+          <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td>
+        <h2> Amarin Sam </h2>
+        <a href="https://www.linkedin.com/in/amarinsam/">
+          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+          />
+        </a>
+        <a href="https://github.com/amarinsam">
+          <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <h2> Greg Jenkins </h2>
+        <a href="https://www.linkedin.com/in/gregoryericjenkins/">
+          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+          />
+        </a>
+        <a href="https://github.com/G-Jenkins">
+          <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td>
+        <h2> Chris Cheng </h2>
+        <a href="https://www.linkedin.com/in/chengtchris/">
+          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+          />
+        </a>
+        <a href="https://github.com/chengtchris1">
+          <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td>
+        <h2> Flora Zhang </h2>
+        <a href="https://www.linkedin.com/in/flora-z-583014b0/">
+          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+          />
+        </a>
+        <a href="https://github.com/FloraLZhang">
+          <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

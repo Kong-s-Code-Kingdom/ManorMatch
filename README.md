@@ -244,11 +244,3 @@ ManorMatch is run on the designated port. It can also be accessed utilizing loca
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### GIT WORKFLOW
-before we push up any feature:\
-git checkout to dev\
-git pull origin dev\
-git checkout to feature branch\
-(if needed) git merge dev\
-THEN

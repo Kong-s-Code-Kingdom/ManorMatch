@@ -5,10 +5,9 @@ const Slideshow = () => {
   const [currentVideo, setCurrentVideo] = useState(0);
 
   const videos = [
-    'https://player.vimeo.com/video/933085371?h=ef78733eac',
-    'https://player.vimeo.com/video/933087071?h=4416ce88f1',
-    'https://player.vimeo.com/video/933086488?h=4732f26306',
-    'https://player.vimeo.com/video/931827424?h=d6687b2975'
+    'https://player.vimeo.com/video/938869923?h=63e28ae14f',
+    'https://player.vimeo.com/video/938873353?h=c69ee1277a',
+    'https://player.vimeo.com/video/938874815?h=dc57343679'
   ];
 
   const nextVideo = () => {

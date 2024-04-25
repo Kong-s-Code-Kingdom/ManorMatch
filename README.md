@@ -46,7 +46,7 @@
 
 <div align="center">
   <h3>Landing Page</h3>
-  <img src="manorMatch/public/Recording 2024-04-13 at 12.07.14.gif" alt="project landing page image" width="600px" />
+  <img src="manorMatch/public/landingPageGif.gif" alt="project landing page image" width="600px" />
 <br />
   <h3>Carousel</h3>
   <img src="manorMatch/public/Recording 2024-04-13 at 12.07.14.gif" alt="project carousel image" width="600px" />

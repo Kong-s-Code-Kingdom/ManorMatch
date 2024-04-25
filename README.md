@@ -155,13 +155,6 @@ ManorMatch is run on the designated port. It can also be accessed utilizing loca
       
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Optimizations
-
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
 
 <!-- CONTACT -->
 

@@ -56,7 +56,7 @@
 <br />
 <h3>Booking</h3>
   <img src="manorMatch/public/Recording 2024-04-13 at 12.24.38.gif" alt="project booking image" width="600px" />
-</div>
+<br />
 <h3>Cart & Checkout</h3>
   <img src="manorMatch/public/Checkout.gif" alt="project service cart & checkout  image" width="600px" />
 </div>

@@ -57,6 +57,9 @@
 <h3>Booking</h3>
   <img src="manorMatch/public/Recording 2024-04-13 at 12.24.38.gif" alt="project booking image" width="600px" />
 </div>
+<h3>Cart & Checkout</h3>
+  <img src="manorMatch/public/Checkout.gif" alt="project service cart & checkout  image" width="600px" />
+</div>
 
 <br />
 <p>
@@ -102,7 +105,7 @@ npm install
    ```sh
    npm install
    ```
-3. Make a copy of the `.exampleenv` file and rename it to `.env`. Enter the following in the `.env` file. 
+3. Make a copy of the `.exampleenv` file and rename it to `.env`. Enter the following in the `.env` file.
    ```sh
     PORT= (your local server port)
     FRONTEND_PORT= (your Vite port)
@@ -124,7 +127,7 @@ npm install
    ```
 5. Run the server environment from the root directory.
    ```sh
-   node server/index.js
+   npm run server-dev
    ```
 6. Populate the database.
    ```sh
@@ -152,7 +155,7 @@ ManorMatch is run on the designated port. It can also be accessed utilizing loca
 - [x] Leverage Stripe’s payment platform to build a secure checkout and payment process
 - [ ] Look into integrating Google Maps’ API for vendor location tracking
 - [ ] Build a portal for administrators to see and manage clients, bookings, and vendor relationships more efficiently
-      
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -226,7 +229,7 @@ ManorMatch is run on the designated port. It can also be accessed utilizing loca
       </td>
       <td>
         <h2> Flora Zhang </h2>
-        <a href="https://www.linkedin.com/in/flora-z-583014b0/">
+        <a href="https://www.linkedin.com/in/floralz/">
           <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
           />
         </a>
